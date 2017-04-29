@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoctorApplication</string>
+    <string name="send_button_label">send</string>
+    <string name="sent_image">Sent Image</string>
+    <string name="sign_out">Sign out</string>
+    <string name="image_picker_button">Image Picker Button</string>
+</resources>
